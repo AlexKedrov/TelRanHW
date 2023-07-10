@@ -1,2 +1,0 @@
-# TelRanHW
-HomeWork TelRan
